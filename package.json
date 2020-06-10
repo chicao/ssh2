@@ -8,7 +8,7 @@
     "node": ">=5.2.0"
   },
   "dependencies": {
-    "ssh2-streams": "git+ssh://git@github.com:chicao/ssh2-streams.git#v0.4.10"
+    "ssh2-streams": "git+ssh://git@github.com:chicao/ssh2-streams.git#8de25ea"
   },
   "scripts": {
     "test": "node test/test.js"
